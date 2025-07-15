@@ -30,12 +30,12 @@ Dataset stored in:
 
 Clone the repo:
 
+```bash
+git clone https://github.com/yourusername/poker-image-classifier-cnn.git
+```
 ## ✏️ Author
 
 - [Nizam Mohammed](https://github.com/Nizamohammed)
 
-```bash
-git clone https://github.com/yourusername/poker-image-classifier-cnn.git
-```
 ![PyTorch](https://img.shields.io/badge/PyTorch-v2.0+-red) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
